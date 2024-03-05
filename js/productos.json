@@ -1,0 +1,204 @@
+[
+    {
+        "id": "Lavar-01",
+        "titulo": "SHAMPOO LIZO + LIZO",
+        "imagen": "./img/Lavar/Lavar-01.png",
+        "des": "Cabellos Lizos y Sedosos",
+        "quees": "Es un delicioso shampoo que ayuda a sellar las cutículas capilares.",
+        "quehace": "Protege el cabello de las inclemencias térmicas y del medio ambiente, Controla los cabellos rizados y esponjados Aporta un efecto lizo, brillante y sedoso.",
+        "howw": "SHAMPOO LIZO + LIZO : Aplicar una cantidad suficiente en el cabello y cuero cabelludo húmedo masajear suavemente desde la puntas, Deje la raíz hasta las puntas dejar actuar, enjuagar hasta retirar completamente con abundante agua y repetir el proceso. Uso frecuente.",
+        "presentaciones": {
+            "120ml": 22.800,
+            "240ml": 37.000,
+            "500ml": 59.100,
+            "1000ml": 84.500
+        },
+        "categoria": {
+            "nombre": "Lavar",
+            "id": "lavar"
+        },
+        "precio": 22.800,
+        "valora": "todos"
+    },
+    {
+        "id": "Lavar-02",
+        "titulo": "SHAMPOO BOTANICO O. ESTRES",
+        "imagen": "./img/Lavar/Lavar-02.png",
+        "des": "Vigorizante, Relajante y Estimulante",
+        "quees": "Un Maravilloso Shampoo de para todo tipo de cabellos. Basados en la magistral activación de Nano-Activos Puros Biocomplex (Ginkgo Biloba, Ginseng. Aloe Vera, Ortiga, Romero, Zinc, Vitaminas B5 ",
+        "quehace": "Estimula el crecimiento del cabello.  Tonifica la piel y mejoran la micro circulación de la sangre,  Vigoriza el cuero cabelludo.  Aporta brillo y flexibilidad.  Relajante y estimulante corporal.",
+        "howw": "Aplicar una cantidad suficiente en el cabello y cuero cabelludo húmedo masajear suavemente desde la puntas, dejar actuar, enjuagar hasta retirar completamente con abundante agua y repetir el proceso. Uso frecuente.",
+        "presentaciones": {
+            "120ml": 22.800,
+            "240ml": 37.000,
+            "500ml": 59.100,
+            "1000ml": 84.500
+        },
+        "categoria": {
+            "nombre": "Lavar",
+            "id": "lavar"
+        },
+        "precio": 22.800,
+        "valora": ""
+    },
+    {
+        "id": "Lavar-03",
+        "titulo": "SHAMPO POWER Plus +",
+        "des": "Cabellos con Hidratación Profunda",
+        "imagen": "./img/Lavar/Lavar-03.png",
+        "quees": "Es un Shampoo que Limpia, Hidrata y Cuida.",
+        "quehace": "Es un shampoo suave para cabellos secos y sensibilizados Especial para personas que tienen cabellos resecos, frágiles. Protege los cabellos tenidos químicamente tratados. Sus componentes promueven la completa condición saludable del cabello previniendo la fragilidad y el resquebrajamiento. ",
+        "howw": "Aplicar una cantidad suficiente en el cabello y cuero cabelludo húmedo masajear suavemente desde la puntas, Deje la raíz hasta las puntas dejar actuar, enjuagar hasta retirar completamente con abundante agua y repetir el proceso. Uso frecuente.",
+        "presentaciones": {
+            "120ml": 22.800,
+            "240ml": 37.000,
+            "500ml": 59.100,
+            "1000ml": 84.500
+        },
+        "categoria": {
+            "nombre": "Lavar",
+            "id": "lavar"
+        },
+        "precio": 22.800,
+        "valora": ""
+    },
+    {
+        "id": "Lavar-04",
+        "titulo": "REVITALIZANTE PASSION",
+        "imagen": "./img/Lavar/Lavar-04.png",
+        "des": "Cabellos sedosos",
+        "quees": "Suave acondicionador de ultima generación indicado para cabellos normales a secos y con Frizz.",
+        "quehace": "Su efectiva TRIPLE ACCIÓN, Acondiciona, Hidrata y Protege, los cabellos castigados.  Aportándole sedosidad y una mejor textura.  Contiene Pro-vitamina B5 (Pantenol), que hidrata el cabello, brindándole flexibilidad y soltura, o Su formulación, acondicionan y desenredan los cabellos, devolviéndole la salud y la belleza que espera ver y sentir Su delicada formulación, garantiza la ausencia de frizz y la protección necesaria para la lozanía de una cabellera radiante.",
+        "howw": "Después de aplicar el shampoo Passion, aplicar y peinar para distribuir el producto, dejar actuar y enjuagar con suficiente agua.. Uso frecuente.",
+        "presentaciones": {
+            "120ml": 24.000,
+            "240ml": 46.700,
+            "500ml": 81.900,
+            "1000ml": 122.200
+        },
+        "categoria": {
+            "nombre": "Lavar",
+            "id": "lavar"
+        },
+        "precio": 24.000,
+        "valora": ""
+    },
+    {
+        "id": "tratar-01",
+        "titulo": "TRATAMIENTO POWER PLUS",
+        "des": "Cabellos Felices",
+        "imagen": "./img/Tratar/Tratar-01.png",
+        "quees": "Tratamiento de alta tecnología que aporta proteínas y aminoácidos a los cabellos. Dando la nutrición necesaria favoreciendo la reestructuración interna.",
+        "quehace": "Por ser un tratamiento de ultima generación reconoce el daño de la fibra capilar ayudando a reformar las partes dañadas gracias a los aminoácidos y proteínas aportando; • Nutrición • Hidratación. • Suavidad, • Brillo, • Movimiento",
+        "howw": "Aplica en pequeñas cantidades o según la necesidad de cada cabello por todo la fibra capilar, peinarlo y ponle 20 minutos mínimo con calor... dejar actuar y enjuagar con suficiente agua.. Intensidad según necesidad de cada cabello ",
+        "presentaciones": {
+            "120ml": 29.300,
+            "240ml": 57.900,
+            "1000ml": 179.200
+        },
+        "categoria": {
+            "nombre": "Tratar",
+            "id": "tratar"
+        },
+        "precio": 29.300,
+        "valora": ""
+    },
+    {
+        "id": "tratar-02",
+        "titulo": "POWER + REPAIR",
+        "des": "Nutre tu cabello mientras duermes",
+        "imagen": "./img/Tratar/Tratar-02.png",
+        "quees": "Es el primer tratamiento especializado con la más efectiva concentración de aminoácidos que reestructura los cabellos dañados y sensibilizados.",
+        "quehace": "Reparador progresivo de la fibra, para un cabello más fuerte y con mayor resistencia. <br>Acción instantánea con Nanotecnología que fortalece la fibra capilar. <br>Tratamiento para cabellos castigados por Keratinas, post color, post decoloración. ",
+        "howw": "Aplica en pequeñas cantidades por toda la fibra capilar, masajearlo suavemente con la yema de los dedos. Dependiendo las características del cabello se puede dejar sin enjuagar. Uso según necesidad de cada cabello",
+        "presentaciones": {
+            "Caja x 6 und de 10": 36.000
+        },
+        "categoria": {
+            "nombre": "Tratar",
+            "id": "tratar"
+        },
+        "precio": 36.000,
+        "valora": ""
+    },
+    {
+        "id": "tratar-03",
+        "titulo": "ONE + PLUS",
+        "des": "Reparador Capilar ",
+        "imagen": "./img/Tratar/Tratar-03.png",
+        "quees": "Es una deliciosa espuma que integra y fusiona de manera magistral la tecnología y la botánica, creando un concentrado que repara y protege las fibras capilares.",
+        "quehace": "1. Recupera los cabellos secos y sensibilizados.<br>2. Aporta sedosidad y movimiento.<br>3. Desenreda fácil.<br>4. Cabellos hermosamente brillantes.<br>5. Facilita el cepillado y el planchado.<br>6. Evita las puntas secas.<br>7. Cabellos suaves y sin friz.<br>8. Cuida el cabello de los efectos térmicos.<br>9. Contiene filtros UV y UVB que protegen el color.<br>10. Ayuda a formar y mantener las ondas del cabello en el peinado.<br>11. Puede usarse para aumentar el volumen para cabellos delgados y/o escasos.",
+        "howw": "Aplica en pequeñas cantidades por secciones en toda la cabellera, distribuirlo uniformemente. Proceder al estilizado- No se enjuaga. Uso frecuente. ",
+        "presentaciones": {"150ml":58.100},
+        "categoria": {
+            "nombre": "Tratar",
+            "id": "tratar"
+        },
+        "precio": 58.100,
+        "valora": ""
+    },
+    {
+        "id": "tratar-04",
+        "titulo": "ELIXIR VITALE",
+        "des": "Elegancia para tu cabello",
+        "imagen": "./img/Tratar/Tratar-04.png",
+        "quees": "Elixir Vital Es un óleo capilar creado por especialistas, para artistas que cuidan el cabello. Sirve para todo tipo de cabello. Su acción principal es la protección.",
+        "quehace": "Protege contra la radiación UV. <br>Repara y fortalece el cabello. <br>°El proceso de peinado y corte se hace más fácil. <br>°El cabello está protegido contra los rayos del sol. <br>La humedad y la contaminación <br>¿Cómo funciona el Oleo Vital?<br> Protege el cabello de los daños térmicos, químicos y medio ambiente. fortalece aportando vitalidad, Suavidad y brillo. ",
+        "howw": "Se puede aplicar en el cabello seco y húmedo, antes o después de lavar el cabello. Es mejor administrarlo desde el largo de la oreja hacia abajo. Óleo con extracto vegetal fórmula ligera con una gran absorción. Componentes fundamentales; Proteínas de keratina. Aceite de algodón, Aloe Vera, Aceite de maíz, Esencias de Jazmin. Ideal como completo de nutrición y reparación en los Cocteles con Power Plus + Power Repair. Úselo cómo estilizado al finalizar el cepillado y/o planchado. ",
+        "presentaciones": {"60ml":58.600},
+        "categoria": {
+            "nombre": "Tratar ",
+            "id": "tratar"
+        },
+        "precio": 58.600,
+        "valora": ""
+    },
+    {
+        "id": "estilizar",
+        "titulo": "JR. FIBER WAX",
+        "des": "Fibras para todo tipo de cabello",
+        "imagen": "./img/Estilizar/Estilizar-01.png",
+        "quees": "Fibras elásticas para moldear y definir peinados.",
+        "quehace": "Permite una fijación duradera, proporciona control ideal para que consigas el look que siempre has querido.",
+        "howw": "Funciona sin problemas con cabello seco o secado con toalla para proporcionar una mayor sujeción. Coloque pequeñas cantidades en la mano, frote y aplique. Proceder al estilizadoUso frecuente",
+        "presentaciones": {"60ml":29.100},
+        "categoria": {
+            "nombre": "Estilizar",
+            "id": "estilizar"
+        },
+        "precio": 29.100,
+        "valora": ""
+    },
+    {
+        "id": "herramienta-01",
+        "titulo": "GORRO TERMICO",
+        "imagen": "./img/Herramientas/Herramientas-01.png",
+        "des": "Multiusos, para todo tipo de cabellos",
+        "quees": "Es la herramienta ideal para aplicar cualquier tratamiento o mascarilla con calor, así como secar el pelo sin dañarlo.",
+        "quehace": "✓Acelera el secado.<br> ✓Distribución uniforme del calor, que mejora<br> los resultados y la salud del pelo.<br> ✓Estilos naturales: twists, trenzas, moños, estilos afro, etc..<br> ✓ TRATAMIENTOS Y ACONDICIONAMIENTO:<br> ✓Aceites calientes.<br> ✓Mascarillas.<br> ✓Repolarización.<br> ✓Tratamientos de coloración.<br> ✓Decoloraciones.<br>",
+        "howw": "Ajustar el gorro térmico al tamaño de la cabeza y asegurar con el cordel.<br> * Acoplar el extremo de la manga a la boquilla del secador.<br> * Usar el secador prestando atención a la temperatura, con el aire a velocidad baja o media. ",
+        "presentaciones": {"1 Pieza.":47.000},
+        "categoria": {
+            "nombre": "Heramientas",
+            "id": "herramientas"
+        },
+        "precio": 47.000,
+        "valora": ""
+    },
+    {
+        "id": "herramienta-02",
+        "titulo": "GORRO ALUMINIO",
+        "imagen": "./img/Herramientas/Herramientas-02.png",
+        "des": "Multiusos",
+        "quees": "El gorro térmico de aluminio es un accesorio capilar reutilizable que maximiza los tratamientos, como Power Plus, Mechas y más, al concentrar y retener el calor.",
+        "quehace": "Potencia la acción de mascarillas y tratamientos hidratantes al acelerar su absorción mediante la concentración de calor. Ideal para usar en duchas, saunas o cualquier momento de activación capilar.",
+        "howw": "mantiene el calor de manera eficaz, evitando pérdidas. Una solución práctica para mejorar la eficiencia de tus tratamientos capilares.",
+        "presentaciones": {"1 Pieza.":4.500},
+        "categoria": {
+            "nombre": "Heramientas",
+            "id": "herramientas"
+        },
+        "precio": 4.500,
+        "valora": ""
+    }
+]
