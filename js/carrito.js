@@ -191,10 +191,9 @@ function generarMensajeWhatsApp(productos) {
 
 
 async function abrirWhatsAppConMensaje(mensaje) {
-    const numeroWhatsApp = '573228357126'; // Reemplaza con el número de teléfono deseado
+    const numeroWhatsApp = '573104819492'; // Reemplaza con el número de teléfono deseado
 
-    // Simula una operación asíncrona, por ejemplo, una solicitud a un servidor
-    await new Promise(resolve => setTimeout(resolve, 1000)); // Espera 1 segundo
+    await new Promise(resolve => setTimeout(resolve, 1000)); 
 
     // Construye la URL de WhatsApp con el mensaje
     const urlWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensaje)}`;
